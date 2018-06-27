@@ -29,3 +29,5 @@
 ![Running](./images/project-diagram.png)
 
 Whatsapp [Contact](https://wa.me/559992854911) ![Whatsapp Icon](https://findicons.com/files/icons/2779/simple_icons/32/whatsapp_32_black.png)
+
+E-Mail Contact: absfregs@gmail.com
