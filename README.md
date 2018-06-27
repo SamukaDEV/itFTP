@@ -14,7 +14,7 @@
 ######  _A future correction is to insert what the workspace to sync in configs.json_
   
 #### Dependencies (node modules)
-###### Most important dependent modules:
+###### Most important node modules:
   1. [ftp](https://www.npmjs.com/package/ftp)
   2. [node-notifier](https://www.npmjs.com/package/node-notifier)
   
