@@ -19,6 +19,7 @@
 ###### Most important node modules:
   1. [ftp](https://www.npmjs.com/package/ftp)
   2. [node-notifier](https://www.npmjs.com/package/node-notifier)
+  3. [colors](https://www.npmjs.com/package/colors)
   
 ###### The dependencies can be installed with **npm** with this command lines inside the itFTP folder:
 ```
