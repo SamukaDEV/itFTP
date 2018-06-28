@@ -28,7 +28,7 @@
             log('|                                        ');
             log('|  Host: ' + cObj.host                    );
             log('|  User: ' + cObj.user                    );
-            log('|  Password: ********'                    );
+            log('|  Password: ***********'                 );
             log('|  WorkSpace to Sync: ' + cObj.workspace  );
             log('|________________________________________');
             log('');
@@ -131,7 +131,7 @@
                   clientFTP.put(data, filename, function(err){
                     //if (err) throw err;
                     glog('Uploaded:', filename);
-                    notify('File Uploaded', filename);
+                    notify(path.basename(filename), 'File Uploaded');
                     //clientFTP.end();
                   });
                 });
@@ -149,9 +149,9 @@
         echo_header();
       });
       clientFTP.on('close', function(){
-        elog('SYSTEM:', 'Connection with the Server Closed');
-        notify('SYSTEM:', 'Connection with the Server Closed');
-        slog('SYSTEM:', 'Trying to Reconnect');
+        elog('itFTP:', 'Connection with the Server Closed');
+        notify('itFTP:', 'Connection with the Server Closed');
+        slog('itFTP:', 'Trying to Reconnect');
         clientFTP.connect(cObj);
       });
       clientFTP.on('error', function(err){
