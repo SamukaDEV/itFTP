@@ -10,7 +10,7 @@
     "user": "username",
     "password": "password",
     "workspace": "/Users/sam/Dropbox/Saulo Breim/geral/localweb/project/",
-    "exceptSpecificFiles": ["index.lock", "FETCH_HEAD", ".git"]
+    "exceptSpecificFiles": ["index.lock", "FETCH_HEAD", ".git", ".DS_Store", "node_modules", "lab"]
   }
   ```
 ######  _A future correction is to insert what the workspace to sync in configs.json_
