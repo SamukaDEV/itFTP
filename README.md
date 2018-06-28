@@ -8,7 +8,9 @@
   {
     "host": "domain.com",
     "user": "username",
-    "password": "password"
+    "password": "password",
+    "workspace": "/Users/sam/Dropbox/Saulo Breim/geral/localweb/project/",
+	  "exceptSpecificFiles": ["index.lock", "FETCH_HEAD", ".git"]
   }
   ```
 ######  _A future correction is to insert what the workspace to sync in configs.json_
@@ -24,7 +26,9 @@
   $ npm install ftp
 ```
 #### Project Gallery
-![Running](./images/running.png)
+![Running](./images/exmp1.png)
+
+![Alerts](./images/alerts.png)
 
 ![Running](./images/project-diagram.png)
 
