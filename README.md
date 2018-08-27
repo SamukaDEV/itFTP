@@ -27,11 +27,11 @@
   $ npm install ftp
 ```
 #### Project Gallery
-![Running](./images/exmp1.png)
+![Running](https://github.com/SamukaDEV/itFTP/raw/master/images/exmp1.png)
 
-![Alerts](./images/alerts.png)
+![Alerts](https://github.com/SamukaDEV/itFTP/raw/master/images/alerts.png)
 
-![Running](./images/project-diagram.png)
+![Running](https://github.com/SamukaDEV/itFTP/raw/master/images/project-diagram.png)
 
 Whatsapp [Contact](https://wa.me/559992854911) ![Whatsapp Icon](https://findicons.com/files/icons/2779/simple_icons/32/whatsapp_32_black.png)
 
