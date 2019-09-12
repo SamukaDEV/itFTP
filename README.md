@@ -1,5 +1,5 @@
 # itFTP
-###### A tool to upload your project when you edit some file
+###### A tool to sync your project when you edit some file
 
 
 #### Configuration
